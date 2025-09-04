@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Offline GPS Tracker",
+  "description": "An offline-capable React.js app to track user movements via GPS, visualize on Google Maps, and record details like location, speed, and distance. Data can be saved and exported to a PDF.",
+  "requestFramePermissions": []
+}
